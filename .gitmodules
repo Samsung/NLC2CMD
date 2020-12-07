@@ -1,0 +1,4 @@
+[submodule "parser/nl2bash"]
+	path = parser/nl2bash
+	url = https://github.com/TellinaTool/nl2bash.git
+	branch = master

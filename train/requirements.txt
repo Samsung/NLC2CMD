@@ -1,0 +1,2 @@
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+git+https://github.com/pytorch/fairseq.git@108f7204f6ccddb676e6d52006da219ce96a02dc
